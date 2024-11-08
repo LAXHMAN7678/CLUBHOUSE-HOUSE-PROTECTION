@@ -1,5 +1,5 @@
 VERSION 1: 
-THIS IS BASIC BETA VERSION1 CODE THE BEST ONE IS YET TO COME
+THIS IS BASIC BETA VERSION1 CODE
 
 This code essentially acts as a security tool to monitor rooms within your Clubhouse social space. If someone opens a room with an inappropriate or offensive title, the code will automatically detect the language used in the room's title. Upon detecting any unsuitable words or phrases, it will immediately close the room, helping to maintain a respectful and welcoming environment.
 
