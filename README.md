@@ -1,4 +1,5 @@
-So basically this code protect your house if any person open bad room using with vulgar title it will simply detect the title and end the room of the person 
+
+This code essentially acts as a security tool to monitor rooms within your Clubhouse social space. If someone opens a room with an inappropriate or offensive title, the code will automatically detect the language used in the room's title. Upon detecting any unsuitable words or phrases, it will immediately close the room, helping to maintain a respectful and welcoming environment.
 
 PRO'S
 Reports cause in minimal
